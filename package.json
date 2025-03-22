@@ -1,0 +1,14 @@
+{
+  "name": "node-azure-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app deployed to Azure Web App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
